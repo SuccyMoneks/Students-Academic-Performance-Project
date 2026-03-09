@@ -1,12 +1,31 @@
 # Students’ Academic Performance Analysis – Power BI Project
 
+## Table of Content
+[Project Objective](#project-objective)
+
+[Dataset Used](#dataset-used)
+
+[Key Performance Indicators Presented](#key-performance-indicators-presented)
+
+[Students’ Performance Questions Addressed by the Dashboard](#students'-performance-questions-addressed-by-the-dashboard)
+
+[Project Process](#project-process)
+
+[Interactive Slicers](#interactive-slicers)
+
+[Key Insights](#key-insights)
+
+[Dashboards](#dashboards)
+
+[Conclusion](#conclusion)
+
 ## Project Objective
 
 The main objective of this project is to use Power BI to analyze students' academic performance and turn unprocessed educational data into engaging visualizations. In order to help educators and stakeholders better understand student performance, test-taking participation, overall academic achievement and areas for improvement, the objective is to compare student results, identify patterns, and convey important insights.
 
 ## Dataset Used
 
-<a href=””></a>
+<a href="https://github.com/SuccyMoneks/Students-Academic-Performance-Project/blob/main/StudentsPerformance.xlsx">Power BI Data</a>
 
 ## Key Performance Indicators Presented
   - Students Count
